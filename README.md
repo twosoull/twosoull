@@ -7,15 +7,15 @@ I'm Younghoon Lee,To become a good developer✨<br>
 </p>
 
 
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center">🌴 Technology Stack 🌴</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Spring-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Oracle-navy"/>
   <br>
 </p>
-<br>
-<h3 align="center">📚 Sub Stack 📚</h3>
+
+<h3 align="center">🌱 Sub Stack 🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-html-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-css-blue"/>&nbsp
