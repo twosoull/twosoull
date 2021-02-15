@@ -24,7 +24,7 @@ I'm Younghoon Lee,To become a good developer,✨<br>
 </p>
 <br>
 <p align="center">
-  💻<strong>.........</strong>❤️&nbsp🚴&nbsp&nbsp&nbsp&nbsp 💨
+  💻<strong>.........</strong>❤️&nbsp🚴&nbsp&nbsp&nbsp💨
 </p>
 <br>
 <p align="center">
