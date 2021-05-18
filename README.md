@@ -30,5 +30,5 @@ I'm Younghoon Lee,To become a good developer,✨<br>
 <br>
 <p align="center">
 <a href="https://www.instagram.com/younghoonyh/"><img src="https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https:https://dev0hoon.tistory.com/"><img src="https://img.shields.io/badge/-blog-navy"/></a>
+<a href="https://dev0hoon.tistory.com/"><img src="https://img.shields.io/badge/-blog-navy"/></a>
 </p>
