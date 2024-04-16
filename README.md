@@ -11,7 +11,7 @@ I'm Younghoon Lee,To become a good developer,✨<br>
 <p align="center">
   <img src="https://img.shields.io/badge/-Spring-red"/>&nbsp
     <img src="https://img.shields.io/badge/-SpringJPA-orange"/>&nbsp
-    <img src="https://img.shields.io/badge/-Spring data JPA-yellow"/>&nbsp  
+    <img src="https://img.shields.io/badge/-SpringDataJPA-yellow"/>&nbsp  
     <img src="https://img.shields.io/badge/-SpringMvc-green"/>&nbsp
     <img src="https://img.shields.io/badge/-QueryDSL-navy"/>
   <img src="https://img.shields.io/badge/-JAVA-blue"/>&nbsp
