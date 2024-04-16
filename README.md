@@ -3,21 +3,23 @@
 <br>
 <p align="center"> 
 I'm Younghoon Lee,To become a good developer,✨<br>
-  I'm developing myself today.🏃💦
+  Failure is a step towards growth.🏃💦
 </p>
 
 
 <h3 align="center">🌴 Technology Stack 🌴</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Spring-orange"/>&nbsp
+    <img src="https://img.shields.io/badge/-SpringJPA-orange"/>&nbsp
+    <img src="https://img.shields.io/badge/-SpringMvc-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Oracle-navy"/>
+  <img src="https://img.shields.io/badge/-RDB-navy"/>
   <br>
 </p>
 
 <h3 align="center">🌱 Sub Stack 🌱</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-html-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-react-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-javaScript-red"/>&nbsp
   <img src="https://img.shields.io/badge/-css-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Jquery-orange"/>&nbsp
