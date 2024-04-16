@@ -19,7 +19,7 @@ I'm Younghoon Lee,To become a good developer,✨<br>
 
 <h3 align="center">🌱 Sub Stack 🌱</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-react-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-React.js-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-javaScript-red"/>&nbsp
   <img src="https://img.shields.io/badge/-css-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Jquery-orange"/>&nbsp
