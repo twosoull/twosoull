@@ -9,10 +9,11 @@ I'm Younghoon Lee,To become a good developer,✨<br>
 
 <h3 align="center">🌴 Technology Stack 🌴</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Spring-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring-red"/>&nbsp
     <img src="https://img.shields.io/badge/-SpringJPA-orange"/>&nbsp
-    <img src="https://img.shields.io/badge/-SpringMvc-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+    <img src="https://img.shields.io/badge/-Spring data JPA-yellow"/>&nbsp  
+    <img src="https://img.shields.io/badge/-SpringMvc-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-RDB-navy"/>
   <br>
 </p>
@@ -20,6 +21,7 @@ I'm Younghoon Lee,To become a good developer,✨<br>
 <h3 align="center">🌱 Sub Stack 🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-blue"/>&nbsp
+    <img src="https://img.shields.io/badge/-Mybatis-red"/>&nbsp
   <img src="https://img.shields.io/badge/-javaScript-red"/>&nbsp
   <img src="https://img.shields.io/badge/-css-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Jquery-orange"/>&nbsp
