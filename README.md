@@ -27,7 +27,8 @@ I'm Younghoon Lee,To become a good developer,✨<br>
   <img src="https://img.shields.io/badge/-javaScript-red"/>&nbsp
   <img src="https://img.shields.io/badge/-css-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Jquery-orange"/>&nbsp
-    <img src="https://img.shields.io/badge/-ajax-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-ajax-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-Amazon S3-orange"/>&nbsp
 </p>
 <br>
 <p align="center">
