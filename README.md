@@ -16,13 +16,14 @@ I'm Younghoon Lee,To become a good developer,✨<br>
     <img src="https://img.shields.io/badge/-QueryDSL-navy"/>
   <img src="https://img.shields.io/badge/-JAVA-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-RDB-navy"/>
+  <img src="https://img.shields.io/badge/-Vue.js-green"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nust.js-red"/>&nbsp
   <br>
 </p>
 
 <h3 align="center">🌱 Sub Stack 🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Vue.js-green"/>&nbsp
   <img src="https://img.shields.io/badge/-Mybatis-red"/>&nbsp
   <img src="https://img.shields.io/badge/-javaScript-red"/>&nbsp
   <img src="https://img.shields.io/badge/-css-blue"/>&nbsp
